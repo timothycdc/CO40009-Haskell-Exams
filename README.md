@@ -1,6 +1,6 @@
 ## COMP40009 Haskell
 
-Attempts at self-learning Haskell from the 1st year DoC exams. Straight into the work with no pre-coursework. ¯\\\_(ツ)\_/¯
+Attempts at self-learning Haskell from the 1st year DoC exams. Straight into the questions with no pre-coursework. ¯\\\_(ツ)\_/¯
 
 > "If a Computing Student can do it, so can an EIE student" - Prof Cheung, probably
 
